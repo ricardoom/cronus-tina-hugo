@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://cronus-tina-hugo.pages.dev/'
 languageCode = 'en-us'
 title = 'Cronus Tina Hugo'
 theme = 'blank-open-props'
