@@ -15,6 +15,13 @@
       <description>Yeah Pendejos!!!</description>
     </item>
     <item>
+      <title>Babbas Extra Revenge</title>
+      <link>http://localhost:6789/posts/babbas-extra-revenge/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:6789/posts/babbas-extra-revenge/</guid>
+      <description>More Revenges taken. Less removed cold!</description>
+    </item>
+    <item>
       <title>Hello, World!</title>
       <link>http://localhost:6789/posts/hello-world/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
