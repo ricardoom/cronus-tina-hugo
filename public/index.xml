@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
+    <title>Cronus Tina Hugo</title>
     <link>http://localhost:6789/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <description>Recent content on Cronus Tina Hugo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <atom:link href="http://localhost:6789/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Another Baba production </title>
+      <link>http://localhost:6789/posts/another-baba-production-/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:6789/posts/another-baba-production-/</guid>
+      <description>Yeah Pendejos!!!</description>
+    </item>
     <item>
       <title>Hello, World!</title>
       <link>http://localhost:6789/posts/hello-world/</link>
