@@ -4,6 +4,8 @@
   <url>
     <loc>http://localhost:6789/posts/another-baba-production-/</loc>
   </url><url>
+    <loc>http://localhost:6789/posts/babbas-extra-revenge/</loc>
+  </url><url>
     <loc>http://localhost:6789/categories/</loc>
   </url><url>
     <loc>http://localhost:6789/</loc>
@@ -13,5 +15,7 @@
     <loc>http://localhost:6789/posts/</loc>
   </url><url>
     <loc>http://localhost:6789/tags/</loc>
+  </url><url>
+    <loc>http://localhost:6789/posts/underground-trombone-club/</loc>
   </url>
 </urlset>
