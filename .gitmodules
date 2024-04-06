@@ -1,3 +1,5 @@
 [submodule "themes/blank-open-props"]
 	path = themes/blank-open-props
 	url = https://github.com/ricardoom/blank-open-props.git
+[submodule "blank-open-props"]
+	branch = main
