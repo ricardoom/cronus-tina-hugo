@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "hugo": "hugo server -D -p 6789",
+    "hugo": "hugo server --gc -D -p 6789",
     "dev": "tinacms dev -c \"hugo server -D -p 6789\"",
     "build": "tinacms build && hugo",
     "test": "echo \"Error: no test specified\" && exit 1"
