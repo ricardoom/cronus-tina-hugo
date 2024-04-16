@@ -5,4 +5,4 @@ vscode/**
 node_modules/
 .sass-cache
 *.css.map
-resources/_gen/assets/sass/
+resources/_gen/assets/scss/
