@@ -1,3 +1,6 @@
+header {
+  min-height: var(--size-8); }
+
 body > header {
   background-color: var(--gray-10); }
 
