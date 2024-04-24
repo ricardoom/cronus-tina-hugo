@@ -2,20 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:6789/posts/another-baba-production-/</loc>
+    <loc>https://cronus-tina-hugo.pages.dev/posts/another-baba-production-/</loc>
   </url><url>
-    <loc>http://localhost:6789/posts/babbas-extra-revenge/</loc>
+    <loc>https://cronus-tina-hugo.pages.dev/posts/babbas-extra-revenge/</loc>
   </url><url>
-    <loc>http://localhost:6789/categories/</loc>
+    <loc>https://cronus-tina-hugo.pages.dev/categories/</loc>
   </url><url>
-    <loc>http://localhost:6789/</loc>
+    <loc>https://cronus-tina-hugo.pages.dev/</loc>
   </url><url>
-    <loc>http://localhost:6789/posts/hello-world/</loc>
+    <loc>https://cronus-tina-hugo.pages.dev/posts/hello-world/</loc>
   </url><url>
-    <loc>http://localhost:6789/posts/</loc>
+    <loc>https://cronus-tina-hugo.pages.dev/posts/</loc>
   </url><url>
-    <loc>http://localhost:6789/tags/</loc>
+    <loc>https://cronus-tina-hugo.pages.dev/tags/</loc>
   </url><url>
-    <loc>http://localhost:6789/posts/underground-trombone-club/</loc>
+    <loc>https://cronus-tina-hugo.pages.dev/posts/underground-trombone-club/</loc>
   </url>
 </urlset>

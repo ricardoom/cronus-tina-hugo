@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Cronus Tina Hugo</title>
-    <link>http://localhost:6789/posts/</link>
+    <link>https://cronus-tina-hugo.pages.dev/posts/</link>
     <description>Recent content in Posts on Cronus Tina Hugo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:6789/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://cronus-tina-hugo.pages.dev/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Another Baba production </title>
-      <link>http://localhost:6789/posts/another-baba-production-/</link>
+      <link>https://cronus-tina-hugo.pages.dev/posts/another-baba-production-/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:6789/posts/another-baba-production-/</guid>
+      <guid>https://cronus-tina-hugo.pages.dev/posts/another-baba-production-/</guid>
       <description>Yeah Pendejos!!! Fugiat amet magna officia pariatur nostrud nisi. Incididunt officia dolore consequat reprehenderit culpa est ad. Fugiat pariatur commodo culpa ipsum eiusmod. Adipisicing fugiat Lorem quis culpa enim proident Lorem dolor do incididunt id sit labore.&#xA;Irure officia voluptate mollit laboris labore adipisicing ex eiusmod ut irure mollit. Nostrud id minim eiusmod enim eu duis sunt laboris deserunt. Velit eiusmod culpa qui consequat elit ad deserunt. Reprehenderit eu esse esse nisi dolore cillum sunt tempor.</description>
     </item>
     <item>
       <title>Babbas Extra Revenge</title>
-      <link>http://localhost:6789/posts/babbas-extra-revenge/</link>
+      <link>https://cronus-tina-hugo.pages.dev/posts/babbas-extra-revenge/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:6789/posts/babbas-extra-revenge/</guid>
+      <guid>https://cronus-tina-hugo.pages.dev/posts/babbas-extra-revenge/</guid>
       <description>More Revenges taken. Less removed cold!</description>
     </item>
     <item>
       <title>Hello, World!</title>
-      <link>http://localhost:6789/posts/hello-world/</link>
+      <link>https://cronus-tina-hugo.pages.dev/posts/hello-world/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:6789/posts/hello-world/</guid>
+      <guid>https://cronus-tina-hugo.pages.dev/posts/hello-world/</guid>
       <description>Hello World! Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut non lorem diam. Quisque vulputate nibh sodales eros pretium tincidunt. Aenean porttitor efficitur convallis. Nulla sagittis finibus convallis. Phasellus in fermentum quam, eu egestas tortor. Maecenas ac mollis leo. Integer maximus eu nisl vel sagittis.&#xA;Suspendisse facilisis, mi ac scelerisque interdum, ligula ex imperdiet felis, a posuere eros justo nec sem. Nullam laoreet accumsan metus, sit amet tincidunt orci egestas nec.</description>
     </item>
     <item>
       <title>Underground Trombone Club</title>
-      <link>http://localhost:6789/posts/underground-trombone-club/</link>
+      <link>https://cronus-tina-hugo.pages.dev/posts/underground-trombone-club/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:6789/posts/underground-trombone-club/</guid>
+      <guid>https://cronus-tina-hugo.pages.dev/posts/underground-trombone-club/</guid>
       <description>Reading the right side of the room&amp;rsquo;s inside&amp;hellip;.</description>
     </item>
   </channel>
